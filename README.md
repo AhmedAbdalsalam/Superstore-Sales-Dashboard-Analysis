@@ -53,7 +53,8 @@ The dashboard highlights:
 
 ## 🛠️ Tools Used
 
-- **Power BI** – for data visualization and dashboard creation
+- **Power Query** – for Data Cleaning & Structuring.
+- **Power BI** – for Data Modeling, DAX, Interactive Visuals.
 - **Microsoft PowerPoint** – for presenting insights and recommendations in a professional format.
 
 ---
