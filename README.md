@@ -62,7 +62,7 @@ The dashboard highlights:
 ## 👤 Author
 
 **Ahmed AbdalSalam**  
-🔗 [LinkedIn Profile](www.linkedin.com/in/ahmed-abdalsalam)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ahmed-abdalsalam)  
 📧 Contact: Ah.Abdalsalam88@outlook.com
 
 **Eslam Mokhtar**  
