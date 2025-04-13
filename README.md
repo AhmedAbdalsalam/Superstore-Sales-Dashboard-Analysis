@@ -45,7 +45,7 @@ The dashboard highlights:
 ├── 📊 Superstore_Customer_Report.png  
 ├── 📊 Superstore_Shipping_Report.png  
 ├── 📊 Superstore_Product_Report.png  
-├── 📄 Superstore Sales Datasetcsv  
+├── 📄 Superstore Sales Dataset.csv  
 ├── 📄 Superstore-Sales-Analysis.pptx  
 └── 📁 Superstore Sales Dataset.pbix
 
