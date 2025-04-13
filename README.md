@@ -40,11 +40,14 @@ The dashboard highlights:
 
 📁 Superstore-Sales-Dashboard  
 │  
-├── 📊 Superstore_Product_Dashboard.png  
-├── 📊 Superstore_Sales_Dashboard.png  
-├── 📄 README.md  
-├── 📄 Superstore_Presentation.pptx  
-└── 📁 Power BI (.pbix)
+├── 📊 Superstore_Dashboard.png  
+├── 📊 Superstore_Sales_Report.png  
+├── 📊 Superstore_Customer_Report.png  
+├── 📊 Superstore_Shipping_Report.png  
+├── 📊 Superstore_Product_Report.png  
+├── 📄 Superstore Sales Datasetcsv  
+├── 📄 Superstore-Sales-Analysis.pptx  
+└── 📁 Superstore Sales Dataset.pbix
 
 ---
 
